@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Дуже детальний опис",
+  "author": "Роман",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
